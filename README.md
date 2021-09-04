@@ -17,8 +17,8 @@ privados: nome (String), codigo (Integer), valor (Double) e preço (Double) e um
 da classe produto.
 (c) Calcular o preço do produto, sabendo-se que o preço é 1.2 * valor.  
 (d) Exiba os dados do objeto da classe produto.
-
 (e) Crie outro construtor para a classe e exiba novamente os dados do produto.
+
 3) Salve o projeto da questão anterior em outro diretório e faça as atividades abaixo:
 (a) No mesmo pacote da classe Produto, criar a classe Perecível, que herda de 
 Produto e possui um atributo adicional validade (Integer) e um construtor próprio.
